@@ -1,0 +1,4 @@
+from .election_repository import ElectionRepository
+from .repository import  Repository
+from .active_election_repository import ActiveElectionRepository
+from .student_repository import StudentRepository
